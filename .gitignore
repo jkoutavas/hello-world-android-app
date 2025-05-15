@@ -1,0 +1,13 @@
+# Android SDK local props
+local.properties
+
+# Generated resources & builds
+.gradle/
+**/build/
+
+# Ignore IDE files
+.idea/
+*.iml
+.vscode/
+
+# And your existing entries…
